@@ -18,7 +18,7 @@ Aplicación de escritorio en Java para la generación, visualización y análisi
 ## 📁 Estructura del Proyecto
 
 ```
-AppGrafos/
+AppGrafosTablasHash/
 ├── src/
 │   ├── algoritmos/
 │   ├── grafo/
