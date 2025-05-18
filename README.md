@@ -1,4 +1,4 @@
-# AppGrafos
+# AppGrafosTablasHash
 
 Aplicación de escritorio en Java para la generación, visualización y análisis de grafos, desarrollada como proyecto académico.
 ![image](https://github.com/user-attachments/assets/d72dc30e-18b5-4d16-b288-a31e4822e2fe)
@@ -27,8 +27,8 @@ AppGrafos/
 ├── build/
 │   └── *.class
 ├── build-jar/
-│   └── AppGrafos.jar
-├── build_run.bat
+│   └── AppGrafosTablasHash.jar
+├── compilar_y_ejecutar.bat
 └── README.md
 ```
 
