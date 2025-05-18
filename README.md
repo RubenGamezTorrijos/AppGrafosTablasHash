@@ -95,9 +95,9 @@ Este proyecto se distribuye bajo licencia educativa y sin fines comerciales.
 
 ---
 
-## Getting Started
+## Preparación
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bienvenido al mundo de Java en VS Code. Aquí tienes una guía para ayudarte a empezar a escribir código Java en Visual Studio Code.
 
 ---
 
